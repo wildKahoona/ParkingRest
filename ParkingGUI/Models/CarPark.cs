@@ -2,6 +2,7 @@
 
 namespace ParkingGUI.Models
 {
+
     public class CarPark
     {
         public int Id { get; set; }
